@@ -3,6 +3,9 @@ hello
 //commentaire dev
 
 //commentaire distant
+<<<<<<< HEAD
 
 
 //commentaire local
+=======
+>>>>>>> bc11151f1946ff449ece298980ca192dc96d2e96
